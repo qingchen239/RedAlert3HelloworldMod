@@ -1,4 +1,4 @@
-# 《紅色警戒3helloworld模組》
+# 紅色警戒 3helloworld模組
 這是我做的第一個《紅色警戒3》模組。  
   
 「helloworld.rar」是將這個模組經過「RA3 MODSDK-X」編譯後生成的文件壓縮而成的。  
