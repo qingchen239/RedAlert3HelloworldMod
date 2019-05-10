@@ -1,3 +1,6 @@
-# RedAlert3HelloworldMod
-這是我做的第一個《紅色警戒3》mod。
-「helloworld.rar」是這個mod的主要文件。您將它解壓並放到遊戲的mod文件夾下，並按照打開遊戲mod的方式正常打開就可以玩了。
+# 《紅色警戒3helloworld模組》
+這是我做的第一個《紅色警戒3》模組。  
+「helloworld.rar」是將這個模組經過Ra3 mod sdk編譯後生成的文件壓縮而成的。  
+您將它解壓並放到遊戲的mod文件夾下，並按照打開遊戲mod的方式正常打開就可以玩了。
+
+而
