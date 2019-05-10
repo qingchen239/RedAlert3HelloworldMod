@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset">
+<Tags/>
+<Includes>
+	<Include type="reference" source="DATA:static.xml" />
+	<Include type="reference" source="DATA:global.xml" />
+	<Include type="reference" source="DATA:audio.xml" />
+	
+		 <Include type="all" source="AlliedPowerPlant.xml" />
+		 <Include type="all" source="JapanPowerPlant.xml" />
+		 <Include type="all" source="SovietPowerPlant.xml" />
+		 <Include type="all" source="SovietPowerPlantAdvanced.xml" />
+		 <Include type="all" source="LogicCommandSet.xml" />
+		 <Include type="all" source="LogicCommand.xml" />
+		 <Include type="all" source="JapanMechaKing.xml" />
+	  </Includes>
+</AssetDeclaration>

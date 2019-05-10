@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset">
+
+	<LogicCommandSet
+		id="AlliedPowerPlantCommandSet">		
+		<Cmd>Command_PackAlliedMCV</Cmd>
+	</LogicCommandSet>
+	<LogicCommandSet
+		id="JapanPowerPlantCommandSet">		
+		<Cmd>Command_PackJapanMCV</Cmd>
+	</LogicCommandSet>
+	<LogicCommandSet
+		id="SovietPowerPlantCommandSet">		
+		<Cmd>Command_PackSovietMCV</Cmd>
+	</LogicCommandSet>
+	<LogicCommandSet
+		id="SovietPowerPlantAdvancedCommandSet">		
+		<Cmd>Command_PackSovietMCV</Cmd>
+	</LogicCommandSet>
+</AssetDeclaration>

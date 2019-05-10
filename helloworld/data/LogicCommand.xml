@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssetDeclaration xmlns="uri:ea.com:eala:asset">
+	
+	<LogicCommand
+		Type="SPECIAL_POWER"
+		id="Command_PackAlliedMCV">
+		<SpecialPower>SpecialPower_PackReplaceSelf</SpecialPower>
+    <AISpecialPowerInfo Heuristic="PACK" Manager="TACTIC"/>
+	</LogicCommand>	
+	<LogicCommand
+		Type="SPECIAL_POWER"
+		id="Command_PackJapanMCV">
+		<SpecialPower>SpecialPower_PackReplaceSelf</SpecialPower>
+    <AISpecialPowerInfo Heuristic="PACK" Manager="TACTIC"/>
+	</LogicCommand>	
+	<LogicCommand
+		Type="SPECIAL_POWER"
+		id="Command_PackSovietMCV">
+		<SpecialPower>SpecialPower_PackReplaceSelf</SpecialPower>
+    <AISpecialPowerInfo Heuristic="PACK" Manager="TACTIC"/>
+	</LogicCommand>	
+
+</AssetDeclaration>
